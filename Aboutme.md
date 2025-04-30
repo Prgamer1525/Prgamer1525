@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Prgamer1525
-- 👀 I’m interested in developing websites.
-- 🌱 I’m currently learning ...
--Contact me at prgamer1525@gmail.com
+- 👀 I’m interested in helping communities grow.
+- 🌱 I’m currently learning building & project management
